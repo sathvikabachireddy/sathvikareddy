@@ -9,7 +9,7 @@ A passionate Data engineer at Texas Farm Bureau group.
 ## About me
 - 🌱 Currently learning Google Cloud Platform (GCP)  
 - 🔭 I build frontend apps and work with data engineering tools  
-- 📫 Reach me: mylapilli_chetan@srmap.edu.in
+- 📫 Reach me: sathvikareddyde@gmail.com
 
 ---
 
